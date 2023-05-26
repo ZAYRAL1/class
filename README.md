@@ -1,3 +1,2 @@
 #class
-clase
-HOLA MUNDO BIENVENIDOS A MI PAGINA
+
